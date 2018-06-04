@@ -1,2 +1,2 @@
 # FastE
-Simple programmers editor 
+Simple programmers editor that was designed to work with QT  
