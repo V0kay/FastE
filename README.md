@@ -1,0 +1,2 @@
+# FastE
+Simple programmers editor 
