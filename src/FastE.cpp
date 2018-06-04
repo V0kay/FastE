@@ -1,5 +1,5 @@
 #include "faste.h"
-#include "ui_smartedit.h"
+#include "ui_faste.h"
 #include <QMessageBox>
 #include <QFileDialog>
 #include <QFile>
@@ -26,7 +26,7 @@ FastE::FastE(QWidget *parent)
     this->centralWidget()->layout()->setContentsMargins(0,0,0,0);
     ConnectSignalToSlot();
 
-    // Add default first tab
+    // Add another tab
     NewTab();
     AddPlusButton();
 }
